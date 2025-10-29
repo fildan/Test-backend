@@ -222,8 +222,6 @@ This project is composed of several microservices:
 
 ## 📎 Appendix
 
-[![Static Badge](https://img.shields.io/badge/Engine_ORCHESTRA-brightgreen)](https://github.com/fuadsyah/messagehub/tree/main/src/service_handlers/services/blast_engine)
-
 
 ## Related Docs
 - [Email Config Documentation](README.email_config.md)
